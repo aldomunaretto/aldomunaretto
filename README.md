@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+"In theory, theory and practice are the same. In practice, they are not"
+Dr. Albert Einstein
+
+
 <!--
 **aldomunaretto/aldomunaretto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
